@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/usr/local/spark/mycode/streaming/src/main/scala/NetworkWordCount.scala:64:26: missing parameter type for expanded function ((x$2, x$3) => x$2.$plus(x$3))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    stringRDD.groupByKey(_+_)[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0m/usr/local/spark/mycode/streaming/src/main/scala/NetworkWordCount.scala:64:28: missing parameter type for expanded function ((x$2: <error>, x$3) => x$2.$plus(x$3))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    stringRDD.groupByKey(_+_)[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m[0J
